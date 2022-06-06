@@ -13,8 +13,8 @@
                 <mxCell id="5" value="The current weather is: 26&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0.87) ; font-family: &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;°C&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="60" y="190" width="170" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/png-vector/20190627/ourlarge/pngtree-cloudy-icon-design-png-image_1515929.jpg;" vertex="1" parent="1">
-                    <mxGeometry x="60" y="100" width="90" height="90" as="geometry"/>
+                <mxCell id="7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.service_provider_cloud_environment;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="120" width="61.36" height="54" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
